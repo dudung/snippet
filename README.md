@@ -1,4 +1,5 @@
 # snippet
 re-usable code, script, algorithm, diagram, equation, or text in plain text
 
-[00](00/README.md)
++ [src](src/README.md)
++ [doc](doc/README.md)
