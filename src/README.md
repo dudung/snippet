@@ -1,4 +1,4 @@
 # src
-source of re-usable in plain text
+some re-usables
 
 [00](00/README.md)

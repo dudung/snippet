@@ -1,2 +1,2 @@
 # doc
-information about listed re-usable
+topics related to listed re-usables
